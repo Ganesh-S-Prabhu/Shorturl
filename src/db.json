@@ -1,0 +1,19 @@
+{
+  "urls": [
+    {
+      "originalurl": "https://www.google.com",
+      "shorturl": "https://www.ganesh.com",
+      "id": 1
+    },
+    {
+      "originalurl": "https://www.abcd.com",
+      "shorturl": "https://www.abcd.com",
+      "id": 2
+    },
+    {
+      "originalurl": "google.com",
+      "shorturl": "ganesh.com",
+      "id": 3
+    }
+  ]
+}
